@@ -8,3 +8,5 @@ git reset --soft HEAD~1  //back tracking from commited to staging area
 git branch
 git switch
 
+now changes created from github repository
+so will fetch this changes from github to local
