@@ -1,0 +1,6 @@
+hello this is my new file name dev.txt
+this file is in dev folder
+
+use command :
+git branch  // its shows yor branches
+git checkout -b brach name   // it create a branch with branch name and switch to new branch
