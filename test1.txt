@@ -4,3 +4,7 @@ git add / git add .
 git commit -m "staging to commited area"
 git push
 git reset --soft HEAD~1  //back tracking from commited to staging area
+
+git branch
+git switch
+
